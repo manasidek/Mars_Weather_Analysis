@@ -16,41 +16,41 @@
 
 ### Part 1(Scrape titles and preview text from Mars news articles)
 
-- The link to the script of the analysis is : [Mars_News]()
+- The link to the script of the analysis is : [Mars_News](https://github.com/manasidek/Mission_to_Mars/blob/main/Starter_Code/part_1_mars_news.ipynb)
 
 - The image of the scraping is shown below:
 
-![title_preview]()
+![title_preview](https://github.com/manasidek/Mission_to_Mars/blob/main/images/title_preview.png)
 
-- The link to the output file is [mars_news]()
+- The link to the output file is [mars_news](https://github.com/manasidek/Mission_to_Mars/blob/main/Starter_Code/mars_news.txt)
 
 ### Part 2 (Scrape and Analyze Mars Weather Data)
 
-- The link to the script of the analysis is : [Mars_Weather]()
+- The link to the script of the analysis is : [Mars_Weather](https://github.com/manasidek/Mission_to_Mars/blob/main/Starter_Code/part_2_mars_weather.ipynb)
 
 - The data from scraping is stored in a dataframe, which is shown in the image below :
 
-![DataFrame]()
+![DataFrame](https://github.com/manasidek/Mission_to_Mars/blob/main/images/DataFrame.png)
 
 - The data was analyzed and data visualization was created:
 
     1. The Average Temperature per month was calculated.
     
-    ![Avg_Temp_month]()
+    ![Avg_Temp_month](https://github.com/manasidek/Mission_to_Mars/blob/main/images/Avg_temp_month.png)
     
     2. The Sorted visualization od average temperature is shown below:
     
-    ![Sorted_avg_temp_month]()
+    ![Sorted_avg_temp_month](https://github.com/manasidek/Mission_to_Mars/blob/main/images/Sorted_avg_temp_month.png)
 
     3. The Average Pressure per month was calculated.
     
-    ![Avg_pressure_month]()
+    ![Avg_pressure_month](https://github.com/manasidek/Mission_to_Mars/blob/main/images/Avg_pressure_month.png)
     
     4. The number of terrestrial days in a martian year.
     
-    ![terrestrial_days]()
+    ![terrestrial_days](https://github.com/manasidek/Mission_to_Mars/blob/main/images/terrestrial_days.png)
 
-- The link to the output file is [Mars_Weather_data]()
+- The link to the output file is [Mars_Weather_data](https://github.com/manasidek/Mission_to_Mars/blob/main/Starter_Code/Mars_Weather_data.csv)
 
 ### Summary
 
