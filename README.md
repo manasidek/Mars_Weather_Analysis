@@ -32,13 +32,13 @@
 
 ![DataFrame](https://github.com/manasidek/Mission_to_Mars/blob/main/images/DataFrame.png)
 
-- The data was analyzed and data visualization was created:
+- The data was analyzed and visualization was created:
 
     1. The Average Temperature per month was calculated.
     
     ![Avg_Temp_month](https://github.com/manasidek/Mission_to_Mars/blob/main/images/Avg_temp_month.png)
     
-    2. The Sorted visualization od average temperature is shown below:
+    2. The Sorted visualization of average temperature is shown below:
     
     ![Sorted_avg_temp_month](https://github.com/manasidek/Mission_to_Mars/blob/main/images/Sorted_avg_temp_month.png)
 
